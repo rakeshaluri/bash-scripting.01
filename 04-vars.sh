@@ -10,4 +10,4 @@ b=abc
 
 
 echo value of a is : $a
-echo $(b)
+echo $b
